@@ -1,16 +1,31 @@
-# chess
+#   Chess game
+*****
+### Author :
+1. Mugo Joseph Wamiti 
+****
+## Project Description
 
-A new Flutter project.
 
-## Getting Started
+Future plans 
 
-This project is a starting point for a Flutter application.
+******
+*****
+## SetUp Instruction
+### Requirements
+* Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+*****
+## Dependencies
+
+*****
+
+## Technologies Used
+*****
+## Contact Information
+* Email : 
+1. wamiti8711@gmail.com
+*****
